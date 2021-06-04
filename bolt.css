@@ -10,9 +10,10 @@ body{
 }
 
 .fan-site {
-    color: black;
+    color: white;
     font-size: 50px; 
     font-family: 'Odibee Sans', cursive;
+    text-shadow: 2px 2px black;
 }
 
 
@@ -27,6 +28,8 @@ body{
   .about-bolt{
       background-color: #284124;
       font-family: 'Odibee Sans', cursive;
+      text-shadow: 2px 2px black;
+      color: white;
   }
 
   .desc-bolt{
