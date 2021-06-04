@@ -4,13 +4,14 @@
 }
 
 body{
-    color: black
+    color: black;
+    
 }
 
-.fan-site{
+.fan-site {
     color: black;
-    font-size: 30px;
-    
+    font-size: 50px; 
+    text-shadow: 2px 2px red;
 }
 
 
