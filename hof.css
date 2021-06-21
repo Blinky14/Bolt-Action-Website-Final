@@ -1,7 +1,5 @@
-
-
 .logo1 {
-    padding-right: 50px;
+    padding-right: 30px;
 }
 
 
@@ -44,3 +42,20 @@
   }
   
   .box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
+
+
+
+.gallery {
+    margin:10x 50p;
+}
+
+.img {
+    transition: 1s;
+    padding: 15px;
+    width: 200px;
+
+
+
+    filter: grayscale(100%);
+    transform :scale(1.1)
+}
