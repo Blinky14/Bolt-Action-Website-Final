@@ -1,11 +1,15 @@
 
 .logo {
     padding-right: 30px;
+    
+}
+
+.logo:hover{
+    transform: scale(1.1);
 }
 
 body{
-    color: black;
-        background-image: url(img/waffen.jpg);
+    background-color:#333;;
         
 }
 
@@ -26,10 +30,11 @@ body{
   }
 
   .about-bolt{
-      background-color: #284124;
+      background-color: #1e1e1e;
       font-family: 'Odibee Sans', cursive;
       text-shadow: 2px 2px black;
       color: white;
+      border-radius: 0 50px;
   }
 
   .desc-bolt{
